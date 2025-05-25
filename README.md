@@ -26,16 +26,6 @@ O site foi projetado para apresentar os serviços, facilitar o agendamento via W
 
 ---
 
-## 📁 Estrutura do Projeto
-
-index.html # Página principal do site
-css/
-├── reset.css # Reset de estilos para consistência entre navegadores
-└── style.css # Estilos personalizados, incluindo variáveis CSS e responsividade
-img/ # Pasta para imagens (logotipo, favicon, imagens dos serviços, etc.)
-
----
-
 ## 🔎 Notas
 
 O site é totalmente **responsivo**, adaptando-se a telas grandes, médias e pequenas (incluindo celulares).
@@ -44,8 +34,7 @@ O site é totalmente **responsivo**, adaptando-se a telas grandes, médias e peq
 
 ## 📞 Contato
 
-Desenvolvido por **Alliquison Matias**  
-[LinkedIn](https://www.linkedin.com/in/alliquison-matias/)  
+Desenvolvido por **Alliquison Matias**: [LinkedIn](https://www.linkedin.com/in/alliquison-matias/)  
 📧 allyquison.matias@gmail.com  
 
 ---
