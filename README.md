@@ -14,6 +14,7 @@ Este é o site oficial do **StudioBeauty**, um estúdio de beleza que oferece se
 
 O site foi projetado para apresentar os serviços, facilitar o agendamento via WhatsApp e fornecer informações de localização.
 
+[LINK - Studio Beauty](https://maracicilia.vercel.app/)
 ---
 
 ## 🛠️ Tecnologias Utilizadas
